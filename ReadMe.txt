@@ -2,6 +2,10 @@ Aluno: Tales Vinicius de Medeiros Alves
 Matrícula:20200040685
 
 Link do vídeo no Youtube:https://youtu.be/7cAMQ1zAVjU
+Link do GitHub:https://github.com/TalesV/Trabalho1SO
+Link do Google Drive:https://drive.google.com/drive/folders/1W7oKcRn5t6cbl6z9HhCfmJ_CzCWIbyT1?usp=sharing
+
+** O link do google drive tem todos os arquivos resultados gerados pelos programas, como deu uns 3 gb de arquivos não deu pra colocar no github.
 
 Além do que foi falado no vídeo ainda quero ressaltar outros pontos que não foram possíveis comentar devido ao tempo limite do vídeo.
 
